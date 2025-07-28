@@ -1,0 +1,7 @@
+Origin: wrt-repo
+Label: wrt
+Suite: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: Repositorio personalizado con el paquete wrt

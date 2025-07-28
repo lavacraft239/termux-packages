@@ -1,0 +1,15 @@
+Package: wrt
+Version: 2.0
+Architecture: all
+Maintainer: Santiago <santiagomanzolillo@gmail.com>
+Depends: libc6 (>= 2.31), libcurl4 (>= 7.68.0), libpthread-stubs0-dev
+Filename: binary/wrt-deb.deb
+Size: 4884
+MD5sum: d3c5de34e4419322f05e5764e4343d51
+SHA1: 3ad4b969b7f109dc88799fe21e22d77036517985
+SHA256: 26a0e89781f0a54ec2a6382265c30bb417bd76163ff1020fc629b11a605ab44e
+Section: net
+Priority: optional
+Description: Herramienta para benchmark de carga web como wrk
+ Web Request Tool (wrt) permite simular múltiples peticiones HTTP para testeo de sitios web.
+
